@@ -1,0 +1,4 @@
+.stack-work/
+*~
+haskell-rest-api-example.cabal
+.idea
